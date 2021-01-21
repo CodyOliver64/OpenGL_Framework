@@ -12,4 +12,9 @@ To run the program:
 
 OpenGL -> OpenGL -> locate and run the OpenGL.exe application
 
+If you are missing any dll files after running the application, you may have to install the latest SDK for windows 10.
+Installing Visual Studios will also correct the issue by giving you the latest redistributable for Visual C++
+Use the link below to locate the necessary package:
+https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/
+
 If there are any issues with running the program, or for quick access, be sure to check out my website at https://olivercody64.wixsite.com/game-dev/fiea-portfolio
